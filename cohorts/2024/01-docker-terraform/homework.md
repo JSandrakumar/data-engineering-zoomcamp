@@ -11,7 +11,6 @@ and practice with Docker and SQL
 Run the command to get information on Docker 
 
 ```docker --help```
-
 Now run the command to get help on the "docker build" command:
 
 ```docker build --help```
@@ -22,7 +21,7 @@ Which tag has the following text? - *Automatically remove the container when it 
 
 - `--delete`
 - `--rc`
-- `--rmc`
+- `--rmc` <--Answer
 - `--rm`
 
 
@@ -33,7 +32,7 @@ Now check the python modules that are installed ( use ```pip list``` ).
 
 What is version of the package *wheel* ?
 
-- 0.42.0
+- 0.42.0 <--Answer
 - 1.0.0
 - 23.0.1
 - 58.1.0
@@ -62,7 +61,7 @@ Tip: started and finished on 2019-09-18.
 Remember that `lpep_pickup_datetime` and `lpep_dropoff_datetime` columns are in the format timestamp (date and hour+min+sec) and not in date.
 
 - 15767
-- 15612
+- 15612 <--Answer
 - 15859
 - 89009
 
